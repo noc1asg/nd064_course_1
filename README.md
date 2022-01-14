@@ -5,7 +5,9 @@ Set up your environment to extend a Python Flask application:
 
 Once all the pre-requisites are completed, you can get started on developing endpoints to describe the application state.
 
-{ https://classroom.udacity.com/courses/ud064/lessons/a75dca92-92d7-4301-b250-53dd5320e7a8/concepts/e87aa5a7-52da-4a84-8196-8b5a923dba7e }
+course-repository : { https://github.com/udacity/nd064_course_1 }
+
+main-course: { https://classroom.udacity.com/courses/ud064/lessons/a75dca92-92d7-4301-b250-53dd5320e7a8/concepts/e87aa5a7-52da-4a84-8196-8b5a923dba7e }
 
 1. ## Exercise 1 : endpoints for app status  
 Extend the Python Flask application with /status and /metrics endpoints, considering the following requirements:
