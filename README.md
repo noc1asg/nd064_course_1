@@ -8,7 +8,7 @@ Set up your environment to extend a Python Flask application:
 
 Once all the pre-requisites are completed, you can get started on developing endpoints to describe the application state.
 
-## Exercise
+## Exerc1 
 Extend the Python Flask application with /status and /metrics endpoints, considering the following requirements:
 - Both endpoints should return an HTTP 200 status code
 - Both endpoints should return a JSON response e.g. {"user": "admin"}. (Note: the JSON response can be hardcoded at this stage)
