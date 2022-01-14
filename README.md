@@ -37,3 +37,7 @@ Note: For the environment setup, follow the instructions in the previous exercis
 Tips: If you get stuck, feel free to check the solution video where detailed operations are demonstrated.
 
 video https://www.youtube.com/watch?v=rdoXsSx1ghk 
+
+3. conclusion ::: takeaway 
+
+video [00:39]  [ND064 C1 L1 07 Lesson Conclusion](https://www.youtube.com/watch?v=kNkwSTksAUg) 
