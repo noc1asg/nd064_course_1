@@ -10,7 +10,7 @@ Once all the pre-requisites are completed, you can get started on developing end
 
 { https://classroom.udacity.com/courses/ud064/lessons/a75dca92-92d7-4301-b250-53dd5320e7a8/concepts/e87aa5a7-52da-4a84-8196-8b5a923dba7e }
 
-1. ## Exercise 1 : 
+1. ## Exercise 1 : adding endpoints 
 Extend the Python Flask application with /status and /metrics endpoints, considering the following requirements:
 - Both endpoints should return an HTTP 200 status code
 - Both endpoints should return a JSON response e.g. {"user": "admin"}. (Note: the JSON response can be hardcoded at this stage)
@@ -21,7 +21,7 @@ Tips: If you get stuck, feel free to check the solution video where detailed ope
 
 video https://www.youtube.com/watch?v=Kj_hGnViybg 
 
-2. ## exercise 2 :: Application Logging
+2. ## exercise 2 :: Application Logging 
 Logging is a core factor in increasing the visibility and transparency of an application. When in troubleshooting or debugging scenarios, it is paramount to pin-point the functionality that impacted the service. This exercise will focus on bringing the logging capabilities to an application.
 
 At this stage, you have extended the Hello World application to handle different endpoints. Once an endpoint is reached, a log line should be recorded showcasing this operation.
