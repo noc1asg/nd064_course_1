@@ -16,3 +16,5 @@ Extend the Python Flask application with /status and /metrics endpoints, conside
 - The /metrics endpoint should return a response similar to this example: data: {UserCount: 140, UserCountActive: 23}
 
 Tips: If you get stuck, feel free to check the solution video where detailed operations are demonstrated.
+
+{ https://classroom.udacity.com/courses/ud064/lessons/a75dca92-92d7-4301-b250-53dd5320e7a8/concepts/e87aa5a7-52da-4a84-8196-8b5a923dba7e }
