@@ -1,10 +1,7 @@
 # nd064_C1
 Set up your environment to extend a Python Flask application:
 
-1 
-2 
-3 
-4 
+![screenshot course-preparations](https://user-images.githubusercontent.com/90947936/149462081-9be2b867-97f6-4ce9-b3bc-df7a60d2995f.png)
 
 Once all the pre-requisites are completed, you can get started on developing endpoints to describe the application state.
 
